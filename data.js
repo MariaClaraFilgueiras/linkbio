@@ -114,7 +114,7 @@ const SITE = {
         titulo: "Meu portfólio de UGC Creator", // texto grande do card. Vazio = o card some
         texto: "Veja meus vídeos",              // texto menor embaixo
         botao: "Abrir",                         // texto do lado direito
-        link: "https://roteirosmariaugclara.my.canva.site/portf-lio-ugc-s-p", // link do portfólio
+        link: "https://mariaclarafilgueiras.github.io/portfolio/#sobre", // link do portfólio
       },
       {
         titulo: "Meu portfólio de UGC Manager",
